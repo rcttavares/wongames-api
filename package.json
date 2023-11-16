@@ -19,6 +19,7 @@
     "@strapi/plugin-i18n": "4.13.4",
     "@strapi/plugin-users-permissions": "4.13.4",
     "@strapi/strapi": "4.13.4",
+    "axios": "^1.6.2",
     "dicer": "^0.3.1",
     "jsdom": "^22.1.0",
     "patch-package": "^8.0.0",
