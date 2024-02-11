@@ -1316,7 +1316,7 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@koa/cors@3.4.3", "@koa/cors@^3.1.0":
+"@koa/cors@3.4.3":
   version "3.4.3"
   resolved "https://registry.yarnpkg.com/@koa/cors/-/cors-3.4.3.tgz#d669ee6e8d6e4f0ec4a7a7b0a17e7a3ed3752ebb"
   integrity sha512-WPXQUaAeAMVaLTEFpoq3T2O1C+FstkjJnDQqy95Ck1UdILajsRhu6mhJ8H2f4NFPRBoCNN+qywTJfq/gGki5mw==
@@ -3246,7 +3246,7 @@ apollo-server-koa@3.10.0:
   resolved "https://registry.yarnpkg.com/apollo-server-koa/-/apollo-server-koa-3.10.0.tgz#6f5cf0d23ca9dc6d6c020322ded5ea213747889d"
   integrity sha512-OHaQRz0vvsALT2q+j4uWnCLRrUl1sM0H6JZvB2PfQwANsjTdwm2Eo6FO5etVByvrU4K1iXD6wBWid0Fjk0/OMQ==
   dependencies:
-    "@koa/cors" "^3.1.0"
+    "@koa/cors" "3.4.3"
     "@types/accepts" "^1.3.5"
     "@types/koa" "^2.11.6"
     "@types/koa-bodyparser" "^4.3.0"
