@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.7",
-    "@strapi/plugin-graphql": "^4.14.5",
+    "@strapi/plugin-graphql": "5.8.0",
     "@strapi/plugin-i18n": "4.13.4",
     "@strapi/plugin-users-permissions": "4.24.2",
-    "@strapi/strapi": "4.13.4",
+    "@strapi/strapi": "5.8.0",
     "axios": "1.7.4",
     "dicer": "^0.3.1",
     "jsdom": "^22.1.0",
