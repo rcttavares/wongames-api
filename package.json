@@ -39,7 +39,8 @@
   },
   "resolutions": {
     "axios": "^1.7.4",
-    "cookie": ">=0.7.0"
+    "cookie": ">=0.7.0",
+    "undici": "^6.21.1"
   },
   "license": "MIT"
 }
